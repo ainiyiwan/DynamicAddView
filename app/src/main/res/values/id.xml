@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="WEB_VIEW" type="id"/>
+    <item name="IMAGE_VIEW" type="id"/>
+
+    <item name="WEB_VIEW_FIRST" type="id"/>
+    <item name="IMAGE_VIEW_FIRST" type="id"/>
+</resources>
